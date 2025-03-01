@@ -1,0 +1,280 @@
+    1  GİTGİTGİT
+    2  GİITGITgıtggıtşlfdlmvsdflm fçlmldm ldmslfmşxc xc gıtgıt
+    3  gıtinit
+    4  git init
+    5  GIT.text
+    6  git add .
+    7  gt add GIT.text
+    8  git init
+    9  git add .
+   10  git status
+   11  git commit-m''deneme''
+   12  git branch-M main
+   13  whoamı
+   14  help
+   15  help cd
+   16  clear
+   17  pwd
+   18  pwd
+   19  cd desktop
+   20  ls
+   21  dir
+   22  cd api 
+   23  cd Api
+   24  cd ..
+   25  pwd
+   26  cd SQL
+   27  touch goit.txt
+   28  ls
+   29  rm
+   30  TOUCH GOİT.TXT
+   31  LS
+   32  date
+   33  systeminfo
+   34  ipconfig
+   35  clear
+   36  git config
+   37  git config--global
+   38  user.name''tolgacnr''
+   39  git config--global
+   40  user.email''tulga.07@icloud.com''
+   41  git init
+   42  [200~git remote init~
+   43  pwd
+   44  cd SQL
+   45  git add .
+   46  clear
+   47  clearclear
+   48  clear
+   49  git config --global
+   50  git config--global
+   51  tolgacnr
+   52  git config--global
+   53  tulga.07@icloud.com
+   54  clear
+   55  git config--global''tolgacnr''git config--global''tulga.07@icloud.com''
+   56  clear
+   57  git config--global
+   58  clear
+   59  git config--global
+   60  git config--global
+   61  git config--global
+   62  clear
+   63  git config user.name ''tolgacnr''
+   64  git config--global user.email''tulga.07@icloud.com''
+   65  clear
+   66  git config--global user.name''tolgacnr''
+   67  clear
+   68  git config--global user.name''tolgacnr''
+   69  git config-- global user.email ''tulga.07@icloud.com''
+   70  clear
+   71  [200~git config --global user.email "tulga.07@icloud.com"
+   72    gt confg --global user.name "tolgacnr"
+   73  git config --global user.email "tulga.07@icloud.com"
+   74   git config --global user.name "tolgacnr"
+   75  git config --global user.name "tolgacnr"
+   76  clear
+   77  git config --global user.name "tolgacnr"
+   78  git config --global user.name "tolgacnr"
+   79  git init
+   80  git add
+   81  git add README.md
+   82  git init
+   83  git add README.md
+   84  git init
+   85  git commit -m "first commit"
+   86  clear
+   87  git config --global user.email "tulga.07@icloud.com"
+   88  git config --global user.name "tolgacnr"
+   89  clear
+   90  git clone https://github.com/mokumus7/Goit.git
+   91  clear
+   92  git config --global user.email "tulga.07@icloud.com"
+   93  git config --global user.name "tolgacnr"
+   94  git config --global user.name "tolgacnr"
+   95  git config --global user.email "tulga.07@icloud.com"
+   96  pwd
+   97  cd SQL
+   98  pwd
+   99  git init
+  100  git add .
+  101  git commit -m ''ilk versiyon''
+  102  git commit -m ''ilk Versiyon''
+  103   git push
+  104  git remote add origin https://github.com/tolgacnr/goitdeneme.git
+  105  git push -u origin master
+  106  git config --global user.name "tolgacnr"
+  107   git config --global user.email "tulga.07@icloud.com"
+  108  git branch -M main
+  109  git remote add origin https://github.com/tolgacnr/goitdeneme.git
+  110  git push -u origin main
+  111  git remote add origin https://github.com/tolgacnr/goitdeneme.git
+  112  git branch -M main
+  113  git remote add origin https://github.com/tolgacnr/goitdeneme.git
+  114  git branch -M master
+  115  git push -u origin main
+  116  git init
+  117  git status
+  118  git add
+  119  git add .
+  120  git remote add origin https://github.com/tolgacnr/goitdeneme.git
+  121  git push -u origin main
+  122  clear
+  123  git branch -M main
+  124  git remote add origin https://github.com/tolgacnr/goitdeneme.git
+  125  git push -u origin main
+  126  clear
+  127  git branch -M master
+  128  git remote add origin https://github.com/tolgacnr/goitdeneme.git
+  129  git push -u origin main
+  130  git branch master
+  131  clear
+  132  git branch -M main
+  133  git remote add origin https://github.com/tolgacnr/GITHUB_TEST.git
+  134  git push -u origin main
+  135  git branch -M main
+  136  git branch -M master
+  137  git remote add origin https://github.com/tolgacnr/GITHUB_TEST.git
+  138  git push -u origin main
+  139  https://github.com/tolgacnr/GITHUB_TEST.git
+  140  clear
+  141  date
+  142  date
+  143  clear
+  144  systeninfo
+  145  systeminfo
+  146  clear
+  147  wifipassword
+  148  clear
+  149  git config --global user.name "tolgacnr"
+  150  git config --global user.email "tulga.07@icloud.com"
+  151  pwd
+  152  cd SQL
+  153  pwd
+  154  git init
+  155  git add .
+  156  git commit -m "ilk Versiyon"
+  157  git push
+  158  git remote add origin https://github.com/tolgacnr/goitdeneme.git
+  159  git push -u origin main
+  160  git remote add origin https://github.com/tolgacnr/test.git
+  161  git push -u origin main
+  162  git branch -M main
+  163  git remote add origin https://github.com/tolgacnr/test.git
+  164  git branch -M master
+  165  git remote add origin https://github.com/tolgacnr/test.git
+  166  tulga@tolga MINGW64 ~/Desktop (master)
+  167  $ git config --global user.name "tolgacnr"
+  168  tulga@tolga MINGW64 ~/Desktop (master)
+  169  $ git config --global user.email "tulga.07@icloud.com"
+  170  tulga@tolga MINGW64 ~/Desktop (master)
+  171  $ pwd
+  172  /c/Users/tulga/Desktop
+  173  tulga@tolga MINGW64 ~/Desktop (master)
+  174  $ cd SQL
+  175  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  176  $ pwd
+  177  /c/Users/tulga/Desktop/SQL
+  178  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  179  $ git init
+  180  Reinitialized existing Git repository in C:/Users/tulga/Desktop/SQL/.git/
+  181  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  182  $ git add .
+  183  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  184  $ git commit -m "ilk Versiyon"
+  185  [master (root-commit) 4167118] ilk Versiyon
+  186   1 file changed, 0 insertions(+), 0 deletions(-)
+  187   create mode 100644 Dersler.txt
+  188  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  189  $ git push
+  190  fatal: The current branch master has no upstream branch.
+  191  To push the current branch and set the remote as upstream, use
+  192      git push --set-upstream origin master
+  193  To have this happen automatically for branches without a tracking
+  194  upstream, see 'push.autoSetupRemote' in 'git help config'.
+  195  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  196  $ git remote add origin https://github.com/tolgacnr/goitdeneme.git
+  197  error: remote origin already exists.
+  198  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  199  $ git push -u origin main
+  200  error: src refspec main does not match any
+  201  error: failed to push some refs to 'https://github.com/tolgacnr/goitdeneme.git'
+  202  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  203  $ git remote add origin https://github.com/tolgacnr/test.git
+  204  error: remote origin already exists.
+  205  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  206  $ git push -u origin main
+  207  error: src refspec main does not match any
+  208  error: failed to push some refs to 'https://github.com/tolgacnr/goitdeneme.git'
+  209  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  210  $ git branch -M main
+  211  tulga@tolga MINGW64 ~/Desktop/SQL (main)
+  212  $ git remote add origin https://github.com/tolgacnr/test.git
+  213  error: remote origin already exists.
+  214  tulga@tolga MINGW64 ~/Desktop/SQL (main)
+  215  $ git branch -M master
+  216  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  217  $ git remote add origin https://github.com/tolgacnr/test.git
+  218  error: remote origin already exists.
+  219  tulga@tolga MINGW64 ~/Desktop/SQL (master)
+  220  $
+  221  clear
+  222  cd SQL
+  223  clear
+  224  pwd
+  225  cd SQL
+  226  clear
+  227  git config --global user.name "tolgacnr"
+  228  git config --global user.email "tulga.07@icloud.com"
+  229  pwd
+  230  cd SQL
+  231  cd SQL 
+  232  git init
+  233  git add .
+  234  git commit -m "ilk versiyon"
+  235  git remote add origin https://github.com/tolgacnr/test.git
+  236  git branch -M master
+  237  git remote add origin https://github.com/tolgacnr/test.git
+  238  git push -u origin master
+  239  ls
+  240  ls
+  241  git config --global user.name "tolgacnr"
+  242  git config --global user.email "tulga.07@icloud.com"
+  243  clear
+  244  ls
+  245  clear
+  246  git config --global user.name "tolgacnr"
+  247  git config --global user.email. "tulga.07@icloud.com"
+  248  ls
+  249  cd SQL
+  250  cd
+  251  git clone https://github.com/tolgacnr/HW_10.git
+  252  Cd ~/Masaüstü/Sql
+  253  Cd ~/Masaüstü/Sql 
+  254  Cd -/Masaüstü/Sql 
+  255  cd ~/Desktop/Sql
+  256  clone
+  257  git clone
+  258  https://github.com/username/HW_10.git
+  259  git clone https://github.com/tolgacnr/HW_10.git
+  260  cd HW_10
+  261  touch text_ignore.txt
+  262  git status
+  263  git add .
+  264  git commit -m “ilk versiyon”
+  265   git commit -m “HW_10” 
+  266  touch main_test.txt
+  267  git add .
+  268  git commit -m “HW_10”
+  269  git branch develop
+  270  git checkout develop
+  271  touch develop_test.txt
+  272  git add .
+  273  git commit -m “develop_test.txt”
+  274  git status
+  275  git add .
+  276  git commit -m “dev”
+  277  git checkout main
+  278  git merge develop
+  279  git log
+  280  history > command_list.csv 
